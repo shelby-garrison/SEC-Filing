@@ -1,0 +1,17 @@
+sec-api
+langchain
+chromadb
+beautifulsoup4
+pandas
+python-dotenv
+requests
+numpy
+pydantic
+pydantic-settings
+pytest
+black
+isort
+flake8
+mypy
+fastapi
+uvicorn
