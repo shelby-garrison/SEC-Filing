@@ -1,7 +1,10 @@
 ## Set-up Instructions
 
-1. Clone the repository:
-
+1. Clone the repository and navigate to root directory:
+```bash
+git clone https://github.com/shelby-garrison/SEC-Filing.git
+cd SEC-Filing
+```
 
 2. Create and activate virtual environment:
 ```bash
